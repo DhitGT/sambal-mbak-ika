@@ -17,7 +17,7 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/logo.ico' }],
   },
 
-  buildDir: '.nuxt',
+  buildDir: './',
   generate: {
     dir: 'dist'
   },
