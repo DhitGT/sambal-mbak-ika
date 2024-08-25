@@ -17,7 +17,7 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/logo.ico' }],
   },
 
-  ssr: true,
+
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@/assets/css/tailwind.css',],
