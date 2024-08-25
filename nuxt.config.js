@@ -18,12 +18,8 @@ export default {
   },
 
 
-  ssr: true, // Ensure SSR is enabled
-  target: 'server', // Use 'server' for SSR
-  buildDir: '.nuxt',
-  generate: {
-    dir: 'dist'
-  },
+  ssr: false,
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@/assets/css/tailwind.css',],
 
