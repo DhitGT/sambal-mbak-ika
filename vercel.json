@@ -2,7 +2,8 @@
   "version": 2,
   "builds": [
     {
-      "src": "nuxt.config.js"
+      "src": "nuxt.config.js",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
