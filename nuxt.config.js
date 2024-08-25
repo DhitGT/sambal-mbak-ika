@@ -18,10 +18,6 @@ export default {
   },
 
 
-  generate: {
-    dir: 'dist'
-  },
-
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@/assets/css/tailwind.css',],
