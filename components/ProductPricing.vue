@@ -28,11 +28,13 @@
               <p class="text-lg text-gray-600 mb-4">
                 Harga: Rp{{ product.price }}
               </p>
-              <button
+              <a
+                href="https:/wa.me/6285645842899?text=Halo,%20saya%20mau%20pesan%20sambal%20pecel,%20apakah%20ada%3F%60"
+                target="_blank"
                 class="bg-[#FA7070] w-full hover:bg-[#EE4E4E] text-white font-medium py-2 px-6 rounded-lg"
               >
                 Pesan
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -50,12 +52,14 @@ export default {
           id: 1,
           title: 'Sambal Pecel Box 500g',
           price: '25.000',
+          qty: '500g',
           image: 'sambal3.jpg', // Replace with actual image path
         },
         {
           id: 2,
           title: 'Sambal Pecel Box 250g',
           price: '13.000',
+          qty: '250g',
           image: 'sambal250g.png', // Replace with actual image path
         },
       ],

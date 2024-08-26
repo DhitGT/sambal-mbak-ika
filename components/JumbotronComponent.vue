@@ -34,8 +34,9 @@
             class="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4 max-h-[3em]"
           >
             <a
-              href="#"
-              class="inline-flex items-center justify-center py-3 px-5 text-base font-medium text-white bg-[#FA7070] rounded-lg hover:bg-[#EE4E4E] visited:text-white transition-colors duration-300 h-12 min-w-[150px]"
+              href="https://wa.me/6285645842899?text=Halo, saya mau pesan sambal pecel nya. apakah ready?"
+              class="inline-flex nav-linkz items-center justify-center py-3 px-5 text-base font-medium text-white bg-[#FA7070] rounded-lg hover:bg-[#EE4E4E] visited:text-white transition-colors duration-300 h-12 min-w-[150px]"
+              target="_blank"
             >
               Pesan Sekarang
               <svg
@@ -54,8 +55,8 @@
               </svg>
             </a>
             <a
-              href="#about-us"
-              class="inline-flex items-center justify-center py-3 px-5 text-base font-medium text-[#FA7070] border border-white rounded-lg visited:text-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400 transition-colors duration-300 h-12 min-w-[150px]"
+              href="#about"
+              class="inline-flex nav-linkz items-center justify-center py-3 px-5 text-base font-medium text-[#FA7070] border border-white rounded-lg visited:text-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400 transition-colors duration-300 h-12 min-w-[150px]"
             >
               Pelajari Lebih Lanjut
             </a>
