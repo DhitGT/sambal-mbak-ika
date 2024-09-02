@@ -12,15 +12,18 @@
           <ul class="space-y-4 text-gray-700">
             <li>
               <p class="font-semibold">Alamat:</p>
-              <p>Jl. Contoh No.123, Jakarta, Indonesia</p>
+              <p>
+                Cluster Green Rahayu Blok AB No 11 Desa Taman Rahayu RT 004 RW
+                006 Kec. Setu Kab. Bekasi
+              </p>
             </li>
             <li>
               <p class="font-semibold">Telepon:</p>
-              <p>(021) 123-4567</p>
+              <p>+62 856-4584-2899</p>
             </li>
             <li>
               <p class="font-semibold">Email:</p>
-              <p>info@example.com</p>
+              <p>ikamariyana42@gmail.com</p>
             </li>
             <li>
               <p class="font-semibold">Jam Operasional:</p>
@@ -39,33 +42,36 @@
           <div class="embed w-full">
             <div
               style="
-                overflow: hidden;
-                resize: none;
                 max-width: 100%;
+                list-style: none;
+                transition: none;
+                overflow: hidden;
                 width: 500px;
                 height: 500px;
               "
             >
               <div
-                id="embed-map-display"
+                id="embed-ded-map-canvas"
                 style="height: 100%; width: 100%; max-width: 100%"
               >
                 <iframe
                   style="height: 100%; width: 100%; border: 0"
                   frameborder="0"
-                  src="https://www.google.com/maps/embed/v1/place?q=smkn+2+bekasi&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                  src="https://www.google.com/maps/embed/v1/place?q=Cluster+Green+Rahayu+Blok+AB+No+11++Desa+Taman+Rahayu+RT+004+RW+006+Kec.+Setu Kab. Bekasi&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                 ></iframe>
               </div>
               <a
-                class="embed-ded-maphtml"
+                class="googl-ehtml"
                 href="https://www.bootstrapskins.com/themes"
-                id="authorize-maps-data"
+                id="enable-map-data"
                 >premium bootstrap themes</a
               ><style>
-                #embed-map-display img {
-                  max-height: none;
+                #embed-ded-map-canvas img.text-marker {
                   max-width: none !important;
                   background: none !important;
+                }
+                img {
+                  max-width: none;
                 }
               </style>
             </div>

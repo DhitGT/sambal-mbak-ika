@@ -31,7 +31,7 @@
               <a
                 href="https://wa.me/6285645842899?text=Halo,%20saya%20mau%20pesan%20sambal%20pecel,%20apakah%20ada%3F%60"
                 target="_blank"
-                class="bg-[#FA7070] w-full hover:bg-[#EE4E4E] text-white font-medium py-2 px-6 rounded-lg"
+                class="bg-[#FA7070] w-full hover:bg-[#EE4E4E] visited:text-white text-white font-medium py-2 px-6 rounded-lg"
               >
                 Pesan
               </a>

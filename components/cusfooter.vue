@@ -19,10 +19,8 @@
       <div class="w-full flex items-center justify-center mx-auto">
         <span class="text-sm text-gray-200 text-center"
           >© 2024
-          <a
-            href="https://sambal-mbak-ika.site"
-            class="hover:underline text-white"
-            ><span class="text-white">sambal-mbak-ika.site</span></a
+          <a href="https://sambal.ikaa.shop" class="hover:underline text-white"
+            ><span class="text-white">ikaa.shop</span></a
           >. All Rights Reserved.</span
         >
       </div>

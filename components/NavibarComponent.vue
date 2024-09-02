@@ -36,7 +36,7 @@
               <a
                 href="#about"
                 class="block nav-link py-2 px-3 rounded md:bg-transparent md:p-0 visited:text-white text-white md:text-blue-500"
-                ><span class="text-white">About</span></a
+                ><span class="text-white">Tentang</span></a
               >
             </li>
             <li>
@@ -64,7 +64,7 @@
               <a
                 href="#contact"
                 class="block nav-link py-2 px-3 rounded md:border-0 md:p-0 text-white hover:text-blue-500 hover:bg-gray-700 md:hover:bg-transparent"
-                ><span class="text-white">Contact</span></a
+                ><span class="text-white">Kontak</span></a
               >
             </li>
           </ul>
@@ -98,7 +98,7 @@
                 class="block nav-link py-2 px-3 rounded"
                 @click="isSidebarOpen = false"
                 aria-current="page"
-                ><span class="text-white">About</span></a
+                ><span class="text-white">Tentang</span></a
               >
             </li>
             <li>
@@ -130,7 +130,7 @@
                 href="#contact"
                 class="block nav-link py-2 px-3 rounded"
                 @click="isSidebarOpen = false"
-                ><span class="text-white">Contact</span></a
+                ><span class="text-white">Kontak</span></a
               >
             </li>
           </ul>
